@@ -27,7 +27,7 @@ https://github.com/yugpatill/module12_is601/tree/main/Screenshots
 ## 🧪 Running Tests Locally
 
 ### 1. Create and activate a virtual environment
-```bash
+
 python3 -m venv venv
 source venv/bin/activate
 
@@ -60,7 +60,7 @@ This document describes all authentication and calculation endpoints implemented
 
 ---
 
-## 8.2 Calculations Endpoints (Require Auth)
+## 2 Calculations Endpoints (Require Auth)
 
 | Endpoint               | Method | Description                                                                 |
 |-----------------------|--------|-----------------------------------------------------------------------------|
